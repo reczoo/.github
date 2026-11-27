@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Research projects:**
+**Pinned Research Projects:**
 + [FuxiCTR – Deep CTR Prediction for Recommendation](https://fuxictr.github.io/)
 + [GLRM – Generative Large Recommendation Model](https://reczoo.github.io/GLRM)
 + [MMRec – Multimodal Recommendation](https://mmrec.github.io/)
